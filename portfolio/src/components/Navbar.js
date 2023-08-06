@@ -28,6 +28,7 @@ export default function Navbar(){
     <div className='bg-cyan-500 md:sticky'>
         <Tabs currentPage={currentPage} handlePageChange={handlePageChange} />
         {renderPage()}
+        
     </div>
    )
  

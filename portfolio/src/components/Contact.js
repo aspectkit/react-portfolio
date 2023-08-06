@@ -30,8 +30,8 @@ export default function Contact(){
 
 
     return (
-        <div>
-            <div className="w-full flex items-center justify-center">
+        <div className='bg-slate-700'>
+            <div className="w-full h-screen flex items-center justify-center">
                 <div className="absolute top-40 bg-white shadow rounded py-12 lg:px-28 px-8">
                     <p className="md:text-3xl text-xl font-bold leading-7 text-center text-gray-700">Get in touch with me!</p>
                     <div className="md:flex items-center mt-12">
