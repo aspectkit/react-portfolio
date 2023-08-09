@@ -37,13 +37,13 @@ export default function Projects(){
     </div>
 
     <div className="max-w-sm rounded bg-white shadow-lg ">
-            <a href="#" target="_blank" rel="noreferrer">
-                {/* <img className="w-full" src="#" alt="pawsome website" /> */}
+            <a href="https://visionary-vault-0d00f00f3245.herokuapp.com/" target="_blank" rel="noreferrer">
+                <img className="w-full" src="./visionaryvault.png" alt="visionary vault website" />
             </a>
             <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2">Project 3 - TBD</div>
+            <div className="font-bold text-xl mb-2">Project 3 - Visionary Vault</div>
             <p className="text-gray-700 text-base">
-                Lorem ipsum dolor sit amet, consectetur adipiscing
+                A site that allows artists to promote themselves and gain commissions from potential buyers.
             </p>
         </div>
         <div className="px-6 pt-4 pb-2">
