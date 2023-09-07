@@ -54,62 +54,7 @@ export default function Projects(){
     </div>
     
 </div>
-<div className="flex justify-evenly px-10 bg-slate-600 w-screen">
-<div className="max-w-sm rounded bg-white shadow-lg ">
-            <a href="#" target="_blank" rel="noreferrer">
-                {/* <img className="w-full" src="#" alt="pawsome website" /> */}
-            </a>
-            <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2">Project 4 - TBD</div>
-            <p className="text-gray-700 text-base">
-                Lorem ipsum dolor sit amet, consectetur adipiscing
-            </p>
-        </div>
-        <div className="px-6 pt-4 pb-2">
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Javascript</span>
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#MongoDB</span>
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#GraphQL</span>
-        </div>
-    </div>
-    
-    <div className="max-w-sm rounded bg-white shadow-lg ">
-            <a href="#" target="_blank" rel="noreferrer">
-                {/* <img className="w-full" src="#" alt="pawsome website" /> */}
-            </a>
-            <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2">Project 5 - TBD</div>
-            <p className="text-gray-700 text-base">
-                Lorem ipsum dolor sit amet, consectetur adipiscing
-            </p>
-        </div>
-        <div className="px-6 pt-4 pb-2">
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Javascript</span>
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#MongoDB</span>
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#GraphQL</span>
-        </div>
-    </div>
-</div>
-
-<div className="flex justify-evenly px-10 bg-slate-600 w-screen">
-<div className="max-w-sm rounded bg-white shadow-lg ">
-            <a href="#" target="_blank" rel="noreferrer">
-                {/* <img className="w-full" src="#" alt="pawsome website" /> */}
-            </a>
-            <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2">Project 6 - TBD</div>
-            <p className="text-gray-700 text-base">
-                Lorem ipsum dolor sit amet, consectetur adipiscing
-            </p>
-        </div>
-        <div className="px-6 pt-4 pb-2">
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Javascript</span>
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#MongoDB</span>
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#GraphQL</span>
-        </div>
-    </div>
-</div>
-<br></br>
-<br></br>
+<div className="p-52"></div>
 </div>
     )
 }
