@@ -20,7 +20,7 @@ export default function Projects(){
     </div>
 
     <div className="max-w-sm rounded bg-white shadow-lg ">
-            <a href="https://game-tracker-p2.herokuapp.com/" target="_blank" rel="noreferrer">
+            <a href="https://levelupgamechecker-2def130cd150.herokuapp.com/signup" target="_blank" rel="noreferrer">
                 <img className="w-full" src="./levelup.png" alt="levelup website" />
             </a>
             <div className="px-6 py-4">
@@ -37,11 +37,11 @@ export default function Projects(){
     </div>
 
     <div className="max-w-sm rounded bg-white shadow-lg ">
-            <a href="https://visionary-vault-0d00f00f3245.herokuapp.com/" target="_blank" rel="noreferrer">
+            <a href="https://github.com/kitdhing/visionaryvault" target="_blank" rel="noreferrer">
                 <img className="w-full" src="./visionaryvault.png" alt="visionary vault website" />
             </a>
             <div className="px-6 py-4">
-            <div className="font-bold text-xl mb-2">Project 3 - Visionary Vault</div>
+            <div className="font-bold text-xl mb-2">Project 3 - Visionary Vault [WIP]</div>
             <p className="text-gray-700 text-base">
                 A site that allows artists to promote themselves and gain commissions from potential buyers.
             </p>
