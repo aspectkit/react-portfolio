@@ -3,7 +3,7 @@ export default function Footer(){
         
 <footer className="sticky bottom-0 bg-slate-700  dark:bg-gray-800 flex">
     <div className="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center justify-center">
-        <a className="hover:animate-pulse" href="https://github.com/kitdhing" target="_blank" rel="noreferrer">
+        <a className="hover:animate-pulse" href="https://github.com/aspectkit" target="_blank" rel="noreferrer">
         <span className="text-sm text-gray-500 sm:text-center dark:text-gray-400 ">Github</span>
         </a>
     </div>
