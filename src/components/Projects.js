@@ -52,6 +52,23 @@ export default function Projects(){
             <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#GraphQL</span>
         </div>
     </div>
+
+    <div className="max-w-sm rounded bg-white shadow-lg ">
+            <a href="https://github.com/aspectkit/sportball-game" target="_blank" rel="noreferrer">
+                <img className="w-full" src="./sportsballscreenshot1.png" alt="SportsBall game title screen" />
+            </a>
+            <div className="px-6 py-4">
+            <div className="font-bold text-xl mb-2">Project 4 - SportsBall</div>
+            <p className="text-gray-700 text-base">
+                A mobile application game about dropping and combining different kinds of sports balls to Reach the beachball.
+            </p>
+        </div>
+        <div className="px-6 pt-4 pb-2">
+            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Javascript</span>
+            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#MongoDB</span>
+            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#GraphQL</span>
+        </div>
+    </div>
     
 </div>
 <div className="p-52"></div>
