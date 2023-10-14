@@ -55,7 +55,7 @@ export default function Projects(){
 
     <div className="max-w-sm rounded bg-white shadow-lg ">
             <a href="https://github.com/aspectkit/sportball-game" target="_blank" rel="noreferrer">
-                <img className="w-full" src="./sportsballscreenshot1.png" alt="SportsBall game title screen" />
+                <img className="w-full" src="./sportsball.png" alt="SportsBall game title screen" />
             </a>
             <div className="px-6 py-4">
             <div className="font-bold text-xl mb-2">Project 4 - SportsBall</div>
@@ -64,9 +64,9 @@ export default function Projects(){
             </p>
         </div>
         <div className="px-6 pt-4 pb-2">
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Javascript</span>
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#MongoDB</span>
-            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#GraphQL</span>
+            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Unity</span>
+            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Unity Remote 5</span>
+            <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#Csharp</span>
         </div>
     </div>
     
