@@ -23,7 +23,7 @@ This is my react portfolio that showcases my work that i've done in web developm
 N/A
 
 ## Usage
-N/A
+The website has been deployed to vercel here: https://react-portfolio-gray-phi.vercel.app/
 
 ## Contributing
 N/A
@@ -32,5 +32,5 @@ N/A
 N/A
 
 ## Questions
-kitdhing\
+aspectkit\
 dhinkit@gmail.com
